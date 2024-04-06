@@ -76,19 +76,10 @@ function Create() {
 
         }
 
-
-
-
-        
-
     }
 
 
-    
-
- 
-
-
+  
   return (
     <>
       <div className="d-flex justify-content-between m-2">
